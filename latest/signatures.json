@@ -1,23 +1,23 @@
 {
     "GameVersion": "12.10",
     "GameTime": {
-        "sig": "F3 0F 11 05 ? ? ? ? 8B 49",
-        "dig": 4,
+        "pattern": "F3 0F 11 05 ? ? ? ? 8B 49",
+        "offset": 4,
         "type": "ADDRESS"
     },
     "LocalPlayer": {
-        "sig": "57 8B 3D ? ? ? ? 3B F7 75",
-        "dig": 3,
+        "pattern": "57 8B 3D ? ? ? ? 3B F7 75",
+        "offset": 3,
         "type": "ADDRESS"
     },
     "BuffManager": {
-        "sig": "8D 83 ? ? ? ? 50 8D AB ? ? ? ?",
-        "dig": 0,
+        "pattern": "8D 83 ? ? ? ? 50 8D AB ? ? ? ?",
+        "size": 0,
         "type": "OFFSET"
     },
     "Chat": {
-        "sig": "8B 0D ? ? ? ? 83 78 44 00",
-        "dig": 2,
+        "pattern": "8B 0D ? ? ? ? 83 78 44 00",
+        "offset": 2,
         "type": "ADDRESS"
     }
 }
