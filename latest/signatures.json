@@ -14,7 +14,7 @@
         "GetBasicAttack":"0x13C250",
         "IsTargetable":"0x1B8720",
         "IsAlive":"0x1638D0",
-        "HasTypeFlag:":"0x1484B0",
+        "HasTypeFlag":"0x1484B0",
         "GetBaseDrawPosition":"0x13E390",
         "GetHealthbarPosition":"0x5ABAC0",
         "TranslateString":"0x949930",
